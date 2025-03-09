@@ -1,1 +1,1 @@
-# Sake-game-
+# Snake game
